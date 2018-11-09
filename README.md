@@ -7,4 +7,4 @@ Simply connect to the shell in GCE, and run:
 and
 `kubectl apply -f . ` to start the cluster 
 
-Link to Recipe-Manager code on GitHub: [https://github.com/rherb94/recipemanager]
+Link to Recipe-Manager code on GitHub: https://github.com/rherb94/recipemanager
